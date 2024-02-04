@@ -72,6 +72,7 @@ body {
 .card__image {
   object-fit: cover;
   margin-block-end: 2rem;
+  user-select: none;
 }
 .card__image > img {
   border-radius: 1.2rem;
